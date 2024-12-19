@@ -5,7 +5,7 @@ The project used a mixed-methods approach, combining qualitative frame analysis 
 
 This appendix contains the code and scripts in addition to all documents of written consent for data collection, legal guidance from UBVA, frame definitions and processes. 
 
-## Appendix 1: 
+## Appendix 1: [a workaround link](FRT-Media-Framing-Thesis/Appendix1)
 ## Appendix 2: 
 
 ## Appendix 3: 
