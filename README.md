@@ -16,5 +16,17 @@ These were consulted, in addition to the consultation from the law firm DLA Pipe
 ## Appendix 3: 
 Contains scripts for all 14 webscraper developed for extracting data for each for the media outlets having granted their permission. 
 
+## Appendix 4: 
+Contains the notebook for concatting df's for each media outlet collected through each scraper, cleaning a bit before doing EDA. 
+
+## Appendix 5: 
+Contains the analyzed articles for the frame analysis with various labels which were developed and adjusted until the final frames were identified. Their definitions are in Appendix 6. 
+
+## Appendix 6: 
+Contains the operational definitions of the finalized frames. 
+
+## Appendix 7: 
+Contains the notebook for developing the classification models, predicting on the unlabelled data and conducting the results. This further contains information and details on various decisions taken, which the character limit of the thesis itself did not allow. 
+
 
 
