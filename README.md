@@ -9,23 +9,23 @@ This appendix contains the code and scripts in addition to all documents of writ
 Contains all documents of written permission from the media outlets + article agreements.
 Note that there are fewer documents than media outlets, as some outlets are owned by the same parent company
 
-### Appendix 2: 
+### Appendix 2: UBVA
 Contains the email correspondance with UBVA: Udvalget Til Beskyttelse Af Videnskabeligt Arbejde. 
 These were consulted, in addition to the consultation from the law firm DLA Piper, in relation to the copyright act. 
 
-## Appendix 3: 
+## Appendix 3: Webscrapers
 Contains scripts for all 14 webscraper developed for extracting data for each for the media outlets having granted their permission. 
 
-## Appendix 4: 
+## Appendix 4: EDA
 Contains the notebook for concatting df's for each media outlet collected through each scraper, cleaning a bit before doing EDA. 
 
-## Appendix 5: 
+## Appendix 5: Frame analysis
 Contains the analyzed articles for the frame analysis with various labels which were developed and adjusted until the final frames were identified. Their definitions are in Appendix 6. 
 
-## Appendix 6: 
+## Appendix 6: Operational frame definitions
 Contains the operational definitions of the finalized frames. 
 
-## Appendix 7: 
+## Appendix 7: Classification models + Results
 Contains the notebook for developing the classification models, predicting on the unlabelled data and conducting the results. This further contains information and details on various decisions taken, which the character limit of the thesis itself did not allow. 
 
 
