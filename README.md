@@ -2,7 +2,7 @@
 
 File titled 'When Faces become Data_MariaNorgreen' contains the document for the thesis. 
 
-The rest of the following readme contains information of the appendices. 
+The rest of the following readme details the information of the appendices. 
 
 
 
