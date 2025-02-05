@@ -13,10 +13,12 @@ The project used a mixed-methods approach, combining qualitative frame analysis 
 
 The appendix contains the code and scripts in addition to all documents of written consent for data collection, legal guidance from UBVA, frame definitions and processes. 
 
+
 ### Appendix 1: written permissions
 Contains all documents of written permission from the media outlets + article agreements. 
 Note that there are fewer documents than media outlets, as some outlets are owned by the same parent company.
 
+NOTE: As the repository has been made publicly available, emails containing permissions from outlets have been removed. The Appendix 1 is not deleted. 
 
 ### Appendix 2: UBVA
 Contains the email correspondance with UBVA (Udvalget Til Beskyttelse Af Videnskabeligt Arbejde). 
