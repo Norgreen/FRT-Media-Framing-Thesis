@@ -18,11 +18,13 @@ The appendix contains the code and scripts in addition to all documents of writt
 Contains all documents of written permission from the media outlets + article agreements. 
 Note that there are fewer documents than media outlets, as some outlets are owned by the same parent company.
 
-NOTE: As the repository has been made publicly available, emails containing permissions from outlets have been removed. The Appendix 1 is not deleted. 
+NOTE: As the repository has been made publicly available, emails containing permissions from outlets have been removed. As such, the Appendix 1 folder has been deleted. 
 
 ### Appendix 2: UBVA
 Contains the email correspondance with UBVA (Udvalget Til Beskyttelse Af Videnskabeligt Arbejde). 
 These were further consulted in relation to the Copyright Act.
+
+NOTE: As the repository has been made publicly available, email correspondance with UBVA has been removed. As such, the Appendix 2 folder has been deleted. 
 
 ## Appendix 3: Webscrapers
 Contains scripts for all 14 webscraper developed for extracting data for each for the media outlets having granted their permission. 
